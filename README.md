@@ -1,9 +1,5 @@
 # PCAP 文件加密套件扫描工具
-<p align="center">
-    <br> 中文 | [English](#pcap-file-cipher-suite-scanner-tool)
-</p>
-
-这是一个简单的小工具，用于扫描pcap文件中tls和dtls的加密套件
+[English](#pcap-file-cipher-suite-scanner-tool )
 ## 用法
 ```
 parse_pcap_cipher_suites.exe -h
@@ -55,7 +51,9 @@ parse_pcap_cipher_suites.exe -T "D:\Program Files\Wireshark\tshark.exe" -r .\1.p
 - python3
 - tshark.exe (Wireshark自带)
 - xlsxwriter
-
+===========================
+English
+===========================
 # PCAP File Cipher Suite Scanner Tool
 This is a simple utility tool for scanning the encryption suites of TLS and DTLS in pcap files.
 
