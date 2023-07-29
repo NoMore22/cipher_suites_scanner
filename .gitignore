@@ -1,0 +1,7 @@
+/build/
+/dist/
+/report/*
+/1.pcap
+/parse_algo.exe
+/venv/
+/parse_algo.spec
