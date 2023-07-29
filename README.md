@@ -51,9 +51,7 @@ parse_pcap_cipher_suites.exe -T "D:\Program Files\Wireshark\tshark.exe" -r .\1.p
 - python3
 - tshark.exe (Wireshark自带)
 - xlsxwriter
-===========================
-English
-===========================
+
 # PCAP File Cipher Suite Scanner Tool
 This is a simple utility tool for scanning the encryption suites of TLS and DTLS in pcap files.
 
